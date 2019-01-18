@@ -1,0 +1,60 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation a {
+  font-family: 'muliExtraBold';
+  font-size: 13px;
+  color: #A9ACB1;
+  text-decoration: none;
+  text-align: center;
+  padding-bottom: 28px;
+  padding-top: 28px;
+}
+.logo_link {
+  display: block;
+}
+.navigation a span{
+  vertical-align: top;
+}
+.links_wrraper {
+  display: flex;
+}
+.left_links {
+  margin-right: 65px;
+}
+.navigation a.active .nav_icon {
+  fill: #000000;
+}
+.navigation a.active  {
+  color: #000000;
+  border-bottom: 2px solid #F08520;
+  border-radius: 2px;
+}
+.icon_text{
+  margin-left: 10px;
+}
+.navigation_item {
+  width: 33.3%;
+}
+.rignt_nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.rignt_nav span{
+  margin-left: 10px;
+}
+.rignt_nav a{
+  margin-left: 56px;
+}
+.sign_up__text span{
+  font-family: 'muliExtraBold';
+  font-size: 13px;
+  color: #A9ACB1;
+  vertical-align: top;
+}
+.signup_nav:hover {
+  cursor: pointer;
+}
+

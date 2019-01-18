@@ -1,0 +1,13 @@
+.search {
+  font-family: 'muliRegular';
+  font-size: 13px;
+  color: #A9ACB1;
+  width: 65%;
+  padding-left: 25px;
+  max-width: none !important;
+  border: none;
+  outline: none;
+  background: url('../../../assets/images/icon_search.svg');
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
+}

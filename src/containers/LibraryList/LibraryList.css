@@ -1,0 +1,18 @@
+.b {
+  border: 1px solid #000;
+}
+.libraryWrraper {
+  height: 100vh;
+}
+
+.lib_text {
+  font-family: "BalooDa";
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.lib_subtext {
+  font-family: "muliRegular";
+  font-size: 16px;
+  color: #A9ACB1;
+}

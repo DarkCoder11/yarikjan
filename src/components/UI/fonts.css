@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'muliRegular';
+  src: url(../../assets/fonts/Muli-Regular.ttf)
+}
+
+@font-face {
+  font-family: 'muliLightItalic';
+  src: url(../../assets/fonts/Muli-LightItalic.ttf)
+}
+
+@font-face {
+  font-family: 'muliLight';
+  src: url(../../assets/fonts/Muli-Light.ttf)
+}
+
+@font-face {
+  font-family: 'muliItalic';
+  src: url(../../assets/fonts/Muli-Italic.ttf)
+}
+
+@font-face {
+  font-family: 'muliExtraBold';
+  src: url(../../assets/fonts/Muli-ExtraBold.ttf)
+}
+
+@font-face {
+  font-family: 'BalooDa';
+  src: url(../../assets/fonts/BalooDa-Regular.ttf)
+}

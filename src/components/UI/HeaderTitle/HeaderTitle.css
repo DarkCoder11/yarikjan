@@ -1,0 +1,15 @@
+.headerTitleWrraper {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.title {
+  font-family: "BalooDa";
+  font-size: 36px;
+  color: #1A1B1C;
+}
+.subtitle {
+  font-family: "muliRegular";
+  font-size: 20px;
+  color: #A9ACB1;
+}
